@@ -1,0 +1,22 @@
+id: DF04BD3D5
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T07:08:39+00:00'
+last_modified: '2022-05-26T11:59:06.596480+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    b44a:
+      image_group_id: I1PD95879
+      title: སྦྱིན་སྲེག་གི་ཆོ་ག།
+      total_pages: 1734
+      order: 34
+      base_file: b44a.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
